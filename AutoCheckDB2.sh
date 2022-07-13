@@ -10,8 +10,8 @@
 # Title           : AutoCheckDB2.sh
 # Description     : Collect information about DB2
 # Author          : levalves@br.ibm.com
-# Date            : 2022-Jul-07
-# Version         : 1.1
+# Date            : 2022-Jul-12
+# Version         : 1.2
 # ===========================================================================
 CANDLEHOME=`find / -name kuddb2 | cut -d"/" -f1-4 | grep -v APM`
 LOGS=$CANDLEHOME/logs
