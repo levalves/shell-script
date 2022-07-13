@@ -1,11 +1,11 @@
 #!/bin/ksh
 #set -x
 # ===========================================================================
-# Licensed Materials - Property of IBM
-# "Restricted Materials of IBM"
+# Licensed Materials - Property of Kyndryl
+# "Restricted Materials of Kyndryl"
 # 
-# IBM ITM 
-# (C) Copyright IBM Corp. 2020. All Rights Reserved
+# Kyndryl ITM 
+# (C) Copyright Kyndryl Corp. 2020. All Rights Reserved
 # ===========================================================================
 # Title           : R3transdMonDB2_auto.ksh
 # Description     : Collect information about hung state SAP / DB2 / ORACLE
