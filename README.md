@@ -1,2 +1,2 @@
-# shell-script - Levinux
+# shell-script
 ```Script Shell MySap criado por levalves - Levinux```
